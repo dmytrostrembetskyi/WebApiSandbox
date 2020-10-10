@@ -1,6 +1,6 @@
 using System;
 
-namespace WebApiSandbox.Api
+namespace Web.Api
 {
     public class WeatherForecast
     {

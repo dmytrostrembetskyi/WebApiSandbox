@@ -14,7 +14,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\WebApiSandbox.Api\WebApiSandbox.Api.csproj" />
+    <Folder Include="Presenters" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Web.Api\Web.Api.csproj" />
   </ItemGroup>
 
 </Project>
